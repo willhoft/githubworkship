@@ -1,4 +1,7 @@
-githubworkship
-==============
+# SIGSCE 2013 Demo Repo
 
-A example repro for the SIGCSE workshop
+This is an exmaple
+
+* Learn the basics
+* Learn even more
+* Etc.
